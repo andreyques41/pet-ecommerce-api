@@ -1,6 +1,15 @@
 # Pet E-commerce Backend
 
-A professional Flask-based REST API for a pet products e-commerce platform with clean architecture, JWT authentication, and comprehensive sales workflows.
+> A professional Flask-based REST API for a pet products e-commerce platform with clean architecture, JWT authentication, and comprehensive sales workflows.
+
+**Author**: [Andrey Quesada](https://github.com/andreyques41) | **GitHub**: [andreyques41/pet-ecommerce-api](https://github.com/andreyques41/pet-ecommerce-api)
+
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![Flask](https://img.shields.io/badge/Flask-3.0+-green.svg)](https://flask.palletsprojects.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12+-blue.svg)](https://postgresql.org)
+[![Tests](https://img.shields.io/badge/Tests-806%20passing-brightgreen.svg)]()
+[![Coverage](https://img.shields.io/badge/Coverage-78%25-brightgreen.svg)]()
 
 ## 🎯 Overview
 
@@ -222,6 +231,12 @@ pytest tests/ --cov=app         # With coverage report
 - **Database Scripts**: `docs/postgres_sql_queries/` - Table creation and sample data
 - **Environment Config**: `config/.env.example` - Configuration template
 - **Test Suite**: 806 passing tests, 76.21% coverage ✅
+
+---
+
+## 📄 License
+
+MIT License - See [LICENSE](LICENSE) for details.
 
 ---
 
