@@ -2,7 +2,7 @@
 
 RESTful API for pet products e-commerce platform with authentication and layered architecture.
 
-**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software Engineer | Backend Systems & AI-Assisted Development
+**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software Engineer | Full-Stack Development & AI Workflows
 
 ---
 
